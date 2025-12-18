@@ -7,7 +7,7 @@ import './firebase';
 
 function App() {
   return (
-    <div className="app-structure-container">
+
       <Helmet>
         <meta
           name="description"
